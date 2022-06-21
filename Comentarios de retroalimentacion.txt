@@ -1,0 +1,9 @@
+- Muy buen informe
+- Muy buen diseño de las clases.
+- Muy bien los extras: Vidas, tiempo de invulnerabilidad y sonido.
+Mejoras:
+--------------------------------------------------------
+- Los Kyojines se mueven muy rapido y llegan a pararse sobre mikasa y esto hace que pierda automaticamente ya que no puede moverse. Una solucion seria que los kyojines comiencen un poco mas lento.
+Nota: 90/100
+
+Calificado por Sabrina Castro, profesora de Programación 1 (UNGS)
